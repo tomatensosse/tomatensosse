@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tomatensosse!
+- 👀 I’m interested in games, german and programming.
+- 🌱 I’m currently learning C++, Java, Javascript and HTML.
+- 💞️ It's good to see you here <3
