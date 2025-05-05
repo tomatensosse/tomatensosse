@@ -1,17 +1,16 @@
-Hey There! 👋
+yo
+
+Proud ⅓ of [triterna.com](https://triterna.com)
 =======
 
-Welcome and thanks for visiting my GitHub profile. Glad to have you here
-If you want to see some of my projects you could start here;
-
-## [Utopia](https://github.com/tomatensosse/Prototype)
-Utopia is indie multiplayer survival game which me and some of my friends have been passionately working on
-
-## [BoraNET](https://github.com/tomatensosse/BoraNET)
-BoraNET is a open source discord alternative, except it is P2P (Peer to peer) so that it doesn't risk any third party cloud stealing your information.
-
-## SLAG - Clothing Brand
+## emrekaynar.com - Online Autobiography
 Coming soon...
 
-## Portfolio - BoraCLV.net
-Coming soon...
+## Abinote @ Triterna - Premium Note Marketplace and Community
+Comming soon..
+
+## Hexhive @ Triterna - The Only User-Led Communication App You'll Need
+Comming soon.
+
+## Utopia - The Best Game You've Never Played
+Utopia will be my final project, an indie multiplayer survival movement shooter game which I have already developed the framework and storyline for the past 8 years.
